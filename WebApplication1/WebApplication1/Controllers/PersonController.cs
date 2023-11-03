@@ -28,6 +28,7 @@ namespace WebApplication1.Controllers
                 return NotFound(); // Return a 404 Not Found response if no records are found
             }
 
+            Console.log("Hello World");
             return Ok(people); // Return a 200 OK response with the list of people
         }
     }
