@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wdaJjwmG6iZNnWWrXfhL/cI992ea2L/LQErbJ++DeMjeyorQnR/p6KzB9CBXlfOCMr7Z5ZWZ9yGuuIEwBc61Lg==",
+  "dgSpecHash": "v0/Dxgpo1rIIFX8G2Wc1k9NGkAGYNb67LiVxjVFVsNqWxtQsgwZIkpRX5f0uWxnF1peV0vJc3PnZB3KX5UL8Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2_Remote\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\boula\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\boula\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

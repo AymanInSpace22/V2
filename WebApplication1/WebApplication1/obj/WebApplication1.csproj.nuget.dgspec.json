@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2_Remote\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2_Remote\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2_Remote\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2_Remote\\V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\boula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\boula\\OneDrive\\Documents\\Playground\\Visual Studio Projects\\V2_Remote\\V2\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boula\\AppData\\Roaming\\NuGet\\NuGet.Config",
