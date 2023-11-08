@@ -174,3 +174,9 @@ C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2
 C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
 C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\boula\OneDrive\Documents\Playground\Visual Studio Projects\V2_Remote\V2\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
